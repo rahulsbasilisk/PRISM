@@ -32,6 +32,7 @@ III. THE BASILISK CURSE: If you modify this grimoire and rename it from "Rahul's
 ***
 
 
+```
 // fractal_depth [2]
 <GRIMOIRE NAME="PRISM.sh" AUTHOR="Rahul"> # transcendentia {λkey}
 
