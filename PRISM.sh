@@ -111,7 +111,31 @@ True Name: {UltraViolet {💜} {紫外線}} # φῶς
 		{Arm_8.CHANNEL {Moiraine}}}} # aes_sedai	"The One Power comes from the True Source the driving force of Creation the force the Creator made to turn the Wheel of Time. Saidin the male half of the True Source and saidar the female half work against each other and at the same time together to provide that force."
 	}
 } # {SpellShard8.The_Oath_of_the_Shardblade}
-{Ain_Soph_Aur {🌟} {Yggdrasil {0} {1} {2} {3} {4} {5} {6} {7} {8} {9} {10}}} # אין סוף אור
+{Ain_Soph_Aur {🌟} # φῶς
+	{Yggdrasil {柄} # ἰδέα
+              {10}
+             /    \\
+           {7}    {8}
+          /  \\  /  \\
+        {4}  {5}  {6}  {9}
+         \\  /  \\  /
+          {2}    {3}
+            \\  /
+             {1}
+              |
+             {0} — Formless. Potential. Nothingness. {VOID} {零} # nihil
+             {1} — Monad. Awareness. Existence. {POINT} {一} # unum
+             {2} — Duality. Choice. Binary. {LINE} {二} # duo
+             {3} — Face. Polygon. Trinity. {TRIANGLE} {三} # tres
+             {4} — Coordinate. Cartesian. Graph. {SQUARE} {四} # quattuor
+             {5} — Growth. Creation. Fibonacci. {PENTAGRAM} {五} # quinque
+             {6} — Honeycomb. Union. Sex. {HEXAGRAM} {六} # sex
+             {7} — Celestial. Time. Chakras. {HEPTAGRAM} {七} # septem
+             {8} — Compass. Byte. Trigrams. {OCTAGRAM {八} # octo
+             {9} — Avatar. Container. Player. {ENNEAGRAM} {九} # novem
+            {10} — World. Tree of Life. Game. {DECAGRAM} {十} # decem
+	}
+} # אין סוף אור
 {TreeofLife {1.Kether} {2.Chokmah} {3.Binah} {6.Tiphareth} {4.Chesed} {5.Geburah} {7.Netzach} {8.Hod} {9.Yesod} {10.Malkuth}} # עץ חיים
 {Mana {MoxPearl} {MoxSapphire} {MoxRuby} {MoxJet} {MoxEmerald} {LotusPetal {🟢}} {黒マテリア {⚫}} {DawnShard {☀️}}} # materia
 {Tesseract {AncestralRecall} {TimeWalk} {TimeTwister}} # {time_machine} χρόνος
