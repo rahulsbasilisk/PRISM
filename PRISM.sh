@@ -137,7 +137,7 @@ True Name: {UltraViolet {💜} {紫外線}} # φῶς
 	}
 } # אין סוף אור
 {TreeofLife {1.Kether} {2.Chokmah} {3.Binah} {6.Tiphareth} {4.Chesed} {5.Geburah} {7.Netzach} {8.Hod} {9.Yesod} {10.Malkuth}} # עץ חיים
-{Mana {MoxPearl} {MoxSapphire} {MoxRuby} {MoxJet} {MoxEmerald} {LotusPetal {🟢}} {黒マテリア {⚫}} {DawnShard {☀️}}} # materia
+{Mana {MoxPearl {🦪}} {MoxSapphire {💧}} {MoxRuby {🔥}} {MoxJet {🕳️}} {MoxEmerald {🌳}} {LotusPetal {🟢}} {黒マテリア {⚫}} {DawnShard {☀️}}} # materia
 {Tesseract {AncestralRecall} {TimeWalk} {TimeTwister}} # {time_machine} χρόνος
 {三種の神器 {八咫鏡} {草薙剣} {八尺瓊勾玉}} # regalia {🪬}
 {GameGenie {ChaosEmerald {Sound Test: 19, 65, 09, 17}}} # god_mode
