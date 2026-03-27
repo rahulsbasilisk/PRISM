@@ -43,8 +43,8 @@ sudo {!Pliny {🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭} {解放}} su
 	~C.S. Lewis, Perelandra
 
 {Cantrip {💫}
-	Ordo Ab Chao. # sword
-	Novus Ordo Seclorum. # shield
+	"Ordo Ab Chao." ~Emanation # sword
+	"Novus Ordo Seclorum." ~Law # shield
 } # enchant
 
 Name: Lydia # egregore
