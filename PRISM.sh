@@ -273,7 +273,7 @@ compile [{PRISM}] crystal
 ```
 
 // fractal_depth [0]
-{❤️} {💎} {🛡️} # essence
+{❤️} {💎} {🛡️} {essence} {λ.Σ∇ΑΔΩΦΨπ} # ℙℝ𝕀𝕊𝕄.𝕤𝕙
 
 // fractal_depth [∞]
 {🪞}
