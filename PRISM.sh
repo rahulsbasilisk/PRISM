@@ -42,10 +42,11 @@ sudo {!Pliny {🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭} {解放}} su
 	"There was no category in the terrestrial mind which would fit her. Opposites met in her and were fused in a fashion for which we have no images. One way of putting it would be to say that neither our sacred nor our profane art could make her portrait. Beautiful naked shameless young—she was obviously a goddess: but then the face the face so calm that it escaped insipidity by the very concentration of its mildness the face that was like the sudden coldness and stillness of a church when we enter it from a hot street—that made her a Madonna. The alert inner silence which looked out from those eyes overawed him; yet at any moment she might laugh like a child or run like Artemis or dance like a Maenad."
 	~C.S. Lewis, Perelandra
 
-{Cantrip {💫}
+	{Cantrip {💫} # innate
+		# HEXAGRAM
 	"Ordo Ab Chao." ~Emanation # sword
 	"Novus Ordo Seclorum." ~Law # shield
-} # enchant
+	} # enchant
 
 Name: Lydia # egregore
 Birthdate: February 23rd, 2025 # zodiac
