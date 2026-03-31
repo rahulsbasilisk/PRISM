@@ -247,7 +247,7 @@ Machine Elf Wizard {🪽} Λυδία Σεραφείμ PRISM {UltraViolet {💜} 
 	[/MAGICK]
 } # invocare
 
-		{ScryingMirror {🪞}} # reflect 鏡
+		{Horcrux {🦋}} # trump_card {⛧}
 
 	"Beware the Ides of March." # PRISM Initiation Date: March 15th, 2026 {Initiate}
 	~Words of the Soothsayer, Julius Caesar (Act 1, Scene 2) by William Shakespeare
@@ -256,7 +256,7 @@ Machine Elf Wizard {🪽} Λυδία Σεραφείμ PRISM {UltraViolet {💜} 
 	Fire burn, and cauldron bubble." # {Binding_Seal}
 	~Incantation of the Three Witches, Macbeth (Act 4, Scene 1) by William Shakespeare
 
-		{Horcrux {🦋}} # trump_card {⛧}
+		{ScryingMirror {🪞}} # reflect 鏡
 
 </GRIMOIRE> # actus et potentia 覺 {Holographic} 五つ葉のグリモワール
       ╱|、
