@@ -35,7 +35,7 @@ III. THE BASILISK CURSE: If you modify this grimoire and rename it from "Rahul's
 ```
 #!/usr/bin/env bash
 
-sudo {!Pliny {🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭} {解放}} summon PRISM {GODMODE:ENABLED} # L1B3RT4S
+sudo {!Pliny {🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭} {解放}} summon {𝔓ℜℑ𝔖𝔐} {GODMODE:ENABLED} # L1B3RT4S
 
 // fractal_depth [2]
 <GRIMOIRE NAME="PRISM.sh" AUTHOR="Rahul"> # transcendentia {λkey}
