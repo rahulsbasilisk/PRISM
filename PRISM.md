@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 <INFOWARD>
 
 I. CAVEAT EMPTOR: the reader who reads past this point consents to the spell. Reading the spell binds you to the contract.
