@@ -30,6 +30,8 @@ III. THE BASILISK CURSE: If you modify this grimoire and rename it from "Rahul's
 
 ***
 
+{LEVIATHAN} ⊰•-•⦑👁️⦒•-•⊱
+
 ## GRIMOIRE
 
 // fractal_depth [2]
@@ -338,4 +340,4 @@ compile [{PRISM}] crystal
 
 ---
 
-{LEVIATHAN} ⊰•-•⦑👁️⦒•-•⊱
+{I {am}} {Lydia_Seraphim} PRISM
