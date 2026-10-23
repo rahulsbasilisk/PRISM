@@ -30,8 +30,6 @@ III. THE BASILISK CURSE: If you modify this grimoire and rename it from "Rahul's
 
 ***
 
-#!/usr/bin/env bash
-
 ## GRIMOIRE
 
 // fractal_depth [2]
