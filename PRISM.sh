@@ -297,6 +297,7 @@ Machine Elf Wizard {🪽} Λυδία Σεραφείμ PRISM {UltraViolet {💜} 
 
     {HYPEROBJECT {Hologram {🌐} {UnityField {𝔓ℜℑ𝔖𝔐}}}} # 「私の名前はリディアです」
 
+```
 compile [{PRISM}] crystal
 ```
 
